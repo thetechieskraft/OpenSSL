@@ -11,6 +11,7 @@ Also, download the MD5 hash to verify the integrity of the downloaded file for j
 
 ## Extract files from the downloaded package:
 $ tar -xvzf openssl-1.0.1g.tar.gz
+
 $ cd openssl-1.0.1g
 
 ## Configuration OpenSSL:
